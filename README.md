@@ -7,7 +7,7 @@ Physiologically-adaptive Virtual Reality can drive interactions and adjust virtu
 
 ## Full Paper
 
-The paper is available in [chiossi2023lbw.pdf](./chiossi2023lbw.pdf).
+The paper is available in [chiossi2023lbw.pdf](./chiossi2023exploring.pdf).
 
 ## Dataset
 
